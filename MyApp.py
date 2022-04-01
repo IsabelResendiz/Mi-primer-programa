@@ -12,3 +12,5 @@ import pandas as pd
 #st.write("Holaa")
 st.text("La siguiente es una integral")
 st.latex(" \int ")
+st.markdown(" #titulo ")
+st.markdown(" **Esta es una viñeta ")
