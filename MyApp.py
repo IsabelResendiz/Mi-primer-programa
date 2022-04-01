@@ -10,4 +10,5 @@ import pandas as pd
 #st.map(df)
 
 #st.write("Holaa")
-st.text("Aloo gente")
+st.text("La siguiente es una integral")
+st.latex("\")
