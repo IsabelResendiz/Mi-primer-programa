@@ -9,4 +9,5 @@ import pandas as pd
 #st.write(df)
 #st.map(df)
 
-st.write("Holaa")
+#st.write("Holaa")
+st.text("Aloo gente")
