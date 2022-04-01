@@ -16,3 +16,7 @@ st.text("La siguiente es una integral")
 st.latex(" \int ")
 st.markdown(" *titulo ")
 st.markdown(" **Esta es una viñeta** ")
+num1 = st.slider("Elige el numero 1",0.0,100.0,25.0)
+num2 = st.slider("Elige el numero 2",0.0,100.0,25.0)
+suma = nu1+num2
+st.write("La suma de",num1,"y",num2,"es:",suma)
