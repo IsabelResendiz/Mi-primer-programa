@@ -11,4 +11,4 @@ import pandas as pd
 
 #st.write("Holaa")
 st.text("La siguiente es una integral")
-st.latex("\")
+st.latex(" \ ")
