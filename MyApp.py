@@ -26,5 +26,5 @@ nn1 = st.number_imput("Dame n1")
 nn2 = st.number_input("Dame n2")
 
 mult = nn1*nn2
-st.write("la multiplicacion de",nn1," y ",nn2"es: ",mult)
+st.write("la multiplicacion de",nn1," y ",nn2,"es: ",mult)
 
