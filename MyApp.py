@@ -23,7 +23,7 @@ st.write("La suma de",num1,"y",num2,"es:",suma)
 
 st.write("Ahora multipliquemos")
 nn1 = st.number_imput("dame n1")
-nn2 = st.number:input("Dame n2")
+nn2 = st.number_input("Dame n2")
 
 mult=nn1*nn2
 st.write("la multiplicacion de",nn1,"y",nn2"es:",mult)
